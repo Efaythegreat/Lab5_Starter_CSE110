@@ -3,6 +3,10 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 
 Name: Yifei Du
 
+[explore](https://efaythegreat.github.io/Lab5_Starter_CSE110/explore.html)
+
+[expose](https://efaythegreat.github.io/Lab5_Starter_CSE110/expose.html)
+
 1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
 
 I would not use a unit test, but rather a End to End test instead since sending a message involves many different factors and client server interactions, which a unit test cant verify for all situations.
